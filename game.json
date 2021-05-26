@@ -1,0 +1,76 @@
+{
+  "names": [
+    {
+      "region": "default",
+      "roman": "The King of Fighters XIV"
+    },
+    {
+      "region": "japan",
+      "roman": "The King of Fighters XIV",
+      "original": "ザ・キング・オブ・ファイターズ XIV"
+    }
+  ],
+  "also-known-as": [
+    "kof xiv",
+    "xiv",
+    "kof 14"
+  ],
+  "platforms": [
+    {
+      "name": "Arcade",
+      "regions": [
+        {
+          "name": "Japan",
+          "roman": "The King of Fighters XIV",
+          "original": "ザ・キング・オブ・ファイターズ XIV",
+          "releaseDate": "06-29-2017",
+          "developer": "SNK",
+          "publisher": "SNK"
+        }
+      ]
+    },
+    {
+      "name": "PlayStation 4",
+      "regions": [
+        {
+          "name": "Japan",
+          "roman": "The King of Fighters XIV",
+          "original": "ザ・キング・オブ・ファイターズ XIV",
+          "releaseDate": "08-25-2016",
+          "developer": "SNK",
+          "publisher": "SNK",
+          "coverFront": ""
+        },
+        {
+          "name": "Europe",
+          "roman": "The King of Fighters XIV",
+          "releaseDate": "08-26-2016",
+          "developer": "SNK",
+          "publisher": "Deep Silver",
+          "coverFront": ""
+        },
+        {
+          "name": "United States",
+          "roman": "The King of Fighters XIV",
+          "releaseDate": "08-23-2016",
+          "developer": "SNK",
+          "publisher": "Atlus",
+          "coverFront": ""
+        }
+      ]
+    },
+    {
+      "name": "PC",
+      "regions": [
+        {
+          "name": "United States",
+          "roman": "The King of Fighters XIV Steam Edition",
+          "releaseDate": "06-15-2017",
+          "developer": "SNK",
+          "publisher": "SNK",
+          "coverFront": ""
+        }
+      ]
+    }
+  ]
+}
